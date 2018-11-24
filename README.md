@@ -12,5 +12,8 @@ which is the open source variant. Nonetheless, I will only upload the code which
 not the other files that these frameworks generate for you.
 
 
+
+
 If you want to see how the end product looked (I made the graphics myself ;) ) lo and behold!
+
 ![crosstheroad](https://user-images.githubusercontent.com/38702971/48972364-f2f06900-f028-11e8-8c1e-9c7ac27cd04a.PNG)
