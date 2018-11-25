@@ -19,5 +19,4 @@ If you want to see how the end product looked (I made the graphics myself ;) ) l
 ![crosstheroad](https://user-images.githubusercontent.com/38702971/48972364-f2f06900-f028-11e8-8c1e-9c7ac27cd04a.PNG)
 
 Cool thing about this game's graphics is that it's all tile based. All the grass, parts of the roads etc are built with 30x30 tiles.
-I included the tiles in the Content directory for this project if you want to take a look at them. But yeah, you can see in the level
-text document how the world is built. Each number will be important as to know which tiles is gonna be printed, some will also serve as a spawn pointer for different cars. 
+But yeah, you can see in the level text document how the world is built. Each number will be important as to know which tiles is gonna be printed, some will also serve as a spawn pointer for different cars. 
